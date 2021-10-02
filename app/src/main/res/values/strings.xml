@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Armides App</string>
+    <string name="heading2">Tic Tac Toe</string>
+    <string name="hello">Welcome To Tic Tac Toe</string>
+</resources>
